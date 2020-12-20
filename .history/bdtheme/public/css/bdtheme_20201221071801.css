@@ -3,7 +3,7 @@
  * ----------------------
  */
 .main-header {
-  position: fixed;
+  position: relative;
   max-height: 100px;
   z-index: 1030;
 }
@@ -500,5 +500,5 @@
 }
 
 .main-sidebar {
-  position: fixed;
+  
 }
